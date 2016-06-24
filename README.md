@@ -1,3 +1,3 @@
 # hello-world
 * Hey Hey Hey
-* * 1 2 3
+* 1 2 3
